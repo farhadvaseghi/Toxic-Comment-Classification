@@ -27,6 +27,6 @@ We tested our model on an online platform named "Gradio".Gradio is the fastest w
 image below show a sample of prediction via this platform.
 <p align="center">
 <kbd>
-   <img align="center" src="https://user-images.githubusercontent.com/54831801/189471562-7b8941ee-727a-4ceb-8a53-378761e8b0dd.png" width="700" height="500">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189471562-7b8941ee-727a-4ceb-8a53-378761e8b0dd.png" width="600" height="400">
 </kbd>
 </p>
