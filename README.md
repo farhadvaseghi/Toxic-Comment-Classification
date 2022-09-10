@@ -2,7 +2,7 @@
 # Toxic Comment Classification Using TensorFlow
 <p align="center">
 <kbd>
-   <img align="center" src="https://user-images.githubusercontent.com/54831801/189471570-846ff7c3-9ddf-4c4e-988f-282045872e4c.png" width="600" height="600">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189471570-846ff7c3-9ddf-4c4e-988f-282045872e4c.png" width="600" height="400">
 </kbd>
 </p>
 
