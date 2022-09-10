@@ -2,7 +2,7 @@
 # Toxic Comment Classification Using TensorFlow
 <p align="center">
 <kbd>
-   <img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="700" height="500">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189471570-846ff7c3-9ddf-4c4e-988f-282045872e4c.png" width="700" height="500">
 </kbd>
 </p>
 
@@ -24,8 +24,9 @@ Link to dataset is as follows:
 
 ## Result
 We tested our model on an online platform named "Gradio".Gradio is the fastest way to demo our machine learning model with a friendly web interface so that anyone can use it, anywhere!
+image below show a sample of prediction via this platform.
 <p align="center">
 <kbd>
-   <img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="700" height="500">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189471562-7b8941ee-727a-4ceb-8a53-378761e8b0dd.png" width="700" height="500">
 </kbd>
 </p>
